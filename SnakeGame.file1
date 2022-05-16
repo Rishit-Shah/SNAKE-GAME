@@ -1,0 +1,16 @@
+// YOU WILL NEED TO CREATE THREE JAVA FILES TO RUN THIS PROGRAMM.
+// FILE 1
+
+package com.company;
+
+import com.company.Gameframe;
+
+import java.util.Scanner;
+
+
+public class SnakeGame {
+    public static void main(String[] args) {
+        new Gameframe();
+
+    }
+}
